@@ -1,0 +1,67 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: rosybrown;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.savedcontacts {
+  font-size: medium;
+  width: 100px;
+  background-color: rgb(133, 42, 128);
+  border-radius: 0px;
+}
+
+.johndoe {
+  font: bolder;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.janedoe {
+  font: bolder;
+  font-family: Impact;
+}
+
+.addcontact {
+  margin-right: 80px;
+  margin-left: 190px;
+  padding: 8%;
+  margin-top: 20px;
+  border-style: double;
+}
+
+footer {
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: bisque;
+  margin-top: 90px;
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.topnavbar {
+  background-color: hsl(0, 0%, 0%);
+  overflow: hidden;
+}
+
+.topnavbar a {
+  text-decoration: none;
+  color: white;
+  float: left;
+  text-align: center;
+  padding: 14px;
+}
+.topnavbar a:hover {
+  background-color: grey;
+}
+
+.topnavbar a.active {
+  background-color: beige;
+}
+
+.scheader {
+  text-align: center;
+  font-size: larger;
+  size: 20rem;
+}
